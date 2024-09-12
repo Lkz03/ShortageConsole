@@ -1,0 +1,17 @@
+C:\Users\Andrius\source\repos\Visma task\bin\Debug\net8.0\Visma task.exe
+C:\Users\Andrius\source\repos\Visma task\bin\Debug\net8.0\Visma task.deps.json
+C:\Users\Andrius\source\repos\Visma task\bin\Debug\net8.0\Visma task.runtimeconfig.json
+C:\Users\Andrius\source\repos\Visma task\bin\Debug\net8.0\Visma task.dll
+C:\Users\Andrius\source\repos\Visma task\bin\Debug\net8.0\Visma task.pdb
+C:\Users\Andrius\source\repos\Visma task\obj\Debug\net8.0\Visma task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrius\source\repos\Visma task\obj\Debug\net8.0\Visma task.AssemblyInfoInputs.cache
+C:\Users\Andrius\source\repos\Visma task\obj\Debug\net8.0\Visma task.AssemblyInfo.cs
+C:\Users\Andrius\source\repos\Visma task\obj\Debug\net8.0\Visma task.csproj.CoreCompileInputs.cache
+C:\Users\Andrius\source\repos\Visma task\obj\Debug\net8.0\Visma task.dll
+C:\Users\Andrius\source\repos\Visma task\obj\Debug\net8.0\refint\Visma task.dll
+C:\Users\Andrius\source\repos\Visma task\obj\Debug\net8.0\Visma task.pdb
+C:\Users\Andrius\source\repos\Visma task\obj\Debug\net8.0\Visma task.genruntimeconfig.cache
+C:\Users\Andrius\source\repos\Visma task\obj\Debug\net8.0\ref\Visma task.dll
+C:\Users\Andrius\source\repos\Visma task\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Andrius\source\repos\Visma task\obj\Debug\net8.0\Visma task.csproj.AssemblyReference.cache
+C:\Users\Andrius\source\repos\Visma task\obj\Debug\net8.0\Visma task.csproj.Up2Date

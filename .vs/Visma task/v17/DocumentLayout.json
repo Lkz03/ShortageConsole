@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrius\\source\\repos\\Visma task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{625F69A3-1169-410A-8F88-8BDB21B4FFF2}|Visma task.csproj|c:\\users\\andrius\\source\\repos\\visma task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625F69A3-1169-410A-8F88-8BDB21B4FFF2}|Visma task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA15063D-CBAC-4439-AA9F-0F6FD837005A}|..\\UnitTests\\UnitTests.csproj|c:\\users\\andrius\\source\\repos\\unittests\\shortageservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA15063D-CBAC-4439-AA9F-0F6FD837005A}|..\\UnitTests\\UnitTests.csproj|c:\\users\\andrius\\source\\repos\\unittests\\services\\shortageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625F69A3-1169-410A-8F88-8BDB21B4FFF2}|Visma task.csproj|c:\\users\\andrius\\source\\repos\\visma task\\helpers\\shortagejsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625F69A3-1169-410A-8F88-8BDB21B4FFF2}|Visma task.csproj|solutionrelative:helpers\\shortagejsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625F69A3-1169-410A-8F88-8BDB21B4FFF2}|Visma task.csproj|c:\\users\\andrius\\source\\repos\\visma task\\data\\shortage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625F69A3-1169-410A-8F88-8BDB21B4FFF2}|Visma task.csproj|solutionrelative:data\\shortage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625F69A3-1169-410A-8F88-8BDB21B4FFF2}|Visma task.csproj|c:\\users\\andrius\\source\\repos\\visma task\\helpers\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625F69A3-1169-410A-8F88-8BDB21B4FFF2}|Visma task.csproj|solutionrelative:helpers\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625F69A3-1169-410A-8F88-8BDB21B4FFF2}|Visma task.csproj|c:\\users\\andrius\\source\\repos\\visma task\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625F69A3-1169-410A-8F88-8BDB21B4FFF2}|Visma task.csproj|solutionrelative:constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625F69A3-1169-410A-8F88-8BDB21B4FFF2}|Visma task.csproj|c:\\users\\andrius\\source\\repos\\visma task\\constants\\paths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625F69A3-1169-410A-8F88-8BDB21B4FFF2}|Visma task.csproj|solutionrelative:constants\\paths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625F69A3-1169-410A-8F88-8BDB21B4FFF2}|Visma task.csproj|c:\\users\\andrius\\source\\repos\\visma task\\enums\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625F69A3-1169-410A-8F88-8BDB21B4FFF2}|Visma task.csproj|solutionrelative:enums\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625F69A3-1169-410A-8F88-8BDB21B4FFF2}|Visma task.csproj|c:\\users\\andrius\\source\\repos\\visma task\\handlers\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625F69A3-1169-410A-8F88-8BDB21B4FFF2}|Visma task.csproj|solutionrelative:handlers\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625F69A3-1169-410A-8F88-8BDB21B4FFF2}|Visma task.csproj|c:\\users\\andrius\\source\\repos\\visma task\\enums\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625F69A3-1169-410A-8F88-8BDB21B4FFF2}|Visma task.csproj|solutionrelative:enums\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShortageService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrius\\source\\repos\\UnitTests\\Services\\ShortageService.cs",
+              "RelativeDocumentMoniker": "..\\UnitTests\\Services\\ShortageService.cs",
+              "ToolTip": "C:\\Users\\Andrius\\source\\repos\\UnitTests\\Services\\ShortageService.cs",
+              "RelativeToolTip": "..\\UnitTests\\Services\\ShortageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:22:56.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShortageServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Andrius\\source\\repos\\UnitTests\\ShortageServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\UnitTests\\ShortageServiceTests.cs",
+              "ToolTip": "C:\\Users\\Andrius\\source\\repos\\UnitTests\\ShortageServiceTests.cs",
+              "RelativeToolTip": "..\\UnitTests\\ShortageServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:38:44.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\Andrius\\source\\repos\\Visma task\\Constants\\Messages.cs",
+              "RelativeDocumentMoniker": "Constants\\Messages.cs",
+              "ToolTip": "C:\\Users\\Andrius\\source\\repos\\Visma task\\Constants\\Messages.cs",
+              "RelativeToolTip": "Constants\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:12:51.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Andrius\\source\\repos\\Visma task\\Helpers\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\ConsoleHelper.cs",
+              "ToolTip": "C:\\Users\\Andrius\\source\\repos\\Visma task\\Helpers\\ConsoleHelper.cs",
+              "RelativeToolTip": "Helpers\\ConsoleHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:46:08.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Paths.cs",
+              "DocumentMoniker": "C:\\Users\\Andrius\\source\\repos\\Visma task\\Constants\\Paths.cs",
+              "RelativeDocumentMoniker": "Constants\\Paths.cs",
+              "ToolTip": "C:\\Users\\Andrius\\source\\repos\\Visma task\\Constants\\Paths.cs",
+              "RelativeToolTip": "Constants\\Paths.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:25:51.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shortage.cs",
+              "DocumentMoniker": "C:\\Users\\Andrius\\source\\repos\\Visma task\\Data\\Shortage.cs",
+              "RelativeDocumentMoniker": "Data\\Shortage.cs",
+              "ToolTip": "C:\\Users\\Andrius\\source\\repos\\Visma task\\Data\\Shortage.cs",
+              "RelativeToolTip": "Data\\Shortage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:15:07.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Andrius\\source\\repos\\Visma task\\Enums\\Room.cs",
+              "RelativeDocumentMoniker": "Enums\\Room.cs",
+              "ToolTip": "C:\\Users\\Andrius\\source\\repos\\Visma task\\Enums\\Room.cs",
+              "RelativeToolTip": "Enums\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:13:38.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Andrius\\source\\repos\\Visma task\\Enums\\Category.cs",
+              "RelativeDocumentMoniker": "Enums\\Category.cs",
+              "ToolTip": "C:\\Users\\Andrius\\source\\repos\\Visma task\\Enums\\Category.cs",
+              "RelativeToolTip": "Enums\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:13:28.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShortageJsonHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Andrius\\source\\repos\\Visma task\\Helpers\\ShortageJsonHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\ShortageJsonHelper.cs",
+              "ToolTip": "C:\\Users\\Andrius\\source\\repos\\Visma task\\Helpers\\ShortageJsonHelper.cs",
+              "RelativeToolTip": "Helpers\\ShortageJsonHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:11:37.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Andrius\\source\\repos\\Visma task\\Handlers\\LoginHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\LoginHandler.cs",
+              "ToolTip": "C:\\Users\\Andrius\\source\\repos\\Visma task\\Handlers\\LoginHandler.cs",
+              "RelativeToolTip": "Handlers\\LoginHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:55:03.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrius\\source\\repos\\Visma task\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Andrius\\source\\repos\\Visma task\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:53:03.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

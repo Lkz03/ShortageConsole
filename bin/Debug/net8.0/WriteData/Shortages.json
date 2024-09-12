@@ -1,0 +1,20 @@
+{
+  "n-Kitchen": {
+    "Title": "n",
+    "Name": "nn",
+    "Room": 1,
+    "Category": 1,
+    "Priority": 1,
+    "CreatedOn": "2024-09-12T15:10:18.9559335+03:00",
+    "CreatedBy": "Andrius"
+  },
+  "t-Bathroom": {
+    "Title": "t",
+    "Name": "n",
+    "Room": 2,
+    "Category": 2,
+    "Priority": 1,
+    "CreatedOn": "2024-09-12T15:10:18.9560713+03:00",
+    "CreatedBy": "Andrius"
+  }
+}
